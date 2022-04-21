@@ -1,0 +1,52 @@
+{
+  "1": {
+    "type": "cash",
+    "id": 1,
+    "name": "Пакет «Тестовый»",
+    "price": 300,
+    "sum": 6000000,
+    "economy": 1000000,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  },
+  "2": {
+    "type": "cash",
+    "id": 2,
+    "name": "Пакет «Богатенький»",
+    "price": 500,
+    "sum": 10000000,
+    "economy": 2000000,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  },
+  "3": {
+    "type": "cash",
+    "id": 3,
+    "name": "Пакет «Большой запас»",
+    "price": 1200,
+    "sum": 24000000,
+    "economy": 5000000,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  },
+  "7": {
+    "type": "cash",
+    "id": 7,
+    "name": "Пакет «Миллионер»",
+    "price": 2500,
+    "sum": 50000000,
+    "economy": 10000000,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  },
+  "8": {
+    "type": "vip",
+    "id": 8,
+    "name": "Вечный Titan VIP",
+    "price": 700,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  },
+  "9": {
+    "type": "vip",
+    "id": 9,
+    "name": "Вечный Premium VIP",
+    "price": 3000,
+    "image": "https://vk.com/nikitos2020sahautdinov"
+  }
+}
